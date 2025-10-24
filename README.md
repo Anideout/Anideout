@@ -69,15 +69,14 @@ Transforming architectural theory into production reality | Learning how decisio
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anideout's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anideout's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Anideout's Github Stats" width="60%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anideout's Top Languages">
 
+<br><br>
 <br>
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
+
+<p align="center"> <i>"From imperative spaghetti to hexagonal elegance, one commit at a time"</i> </p>
+<p align="center"> Last updated: October 2025 </p> ```
 
 
 
