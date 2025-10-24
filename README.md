@@ -1,4 +1,4 @@
-[![Matrix SVG](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)](https://www.youtube.com/watch?v=rxEHQW3V1Fg&list=RDrxEHQW3V1Fg&start_radio=1)
+[![Matrix SVG](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)](https://www.youtube.com/watch?v=rxEHQW3V1Fg&list=RDrxEHQW3V1Fg&start_radio=1)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Anideout!</b></h1>
@@ -88,11 +88,11 @@ Transforming architectural theory into production reality | Learning how decisio
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Anideout's Top Languages">
 
 <br>
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 ---
-
-
-
 <p align="center">
     <i>"From imperative spaghetti to hexagonal elegance, one commit at a time"</i>
 </p>
