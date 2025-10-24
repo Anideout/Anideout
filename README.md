@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
   
   [![Matrix SVG](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)](https://www.youtube.com/watch?v=rxEHQW3V1Fg&list=RDrxEHQW3V1Fg&start_radio=1)
 
@@ -95,6 +95,9 @@ Transforming architectural theory into production reality | Learning how decisio
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+
 
 ---
 <p align="center">
