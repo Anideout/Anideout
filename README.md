@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/<usuario>/<repo>/main/path/to/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Anideout!</b></h1>
