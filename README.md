@@ -1,4 +1,8 @@
-[![Matrix SVG](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)](https://www.youtube.com/watch?v=rxEHQW3V1Fg&list=RDrxEHQW3V1Fg&start_radio=1)
+<div align="center>
+  
+  [![Matrix SVG](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)](https://www.youtube.com/watch?v=rxEHQW3V1Fg&list=RDrxEHQW3V1Fg&start_radio=1)
+
+</div>
 
 <p>
   <h1 align="center"><b>Hello there, I'm Anideout!</b></h1>
