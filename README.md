@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/6b/1e/a8/6b1ea8c19f0c3dc92bb2207a20619403.gif"  
-      width="500%" 
-      height="500px"
+      width="400%" 
+      height="400px"
       style="object-fit: cover; border-radius: 8px; filter: brightness(0.9);" 
       alt="Terminal Banner" /> 
 </div>
@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" height="240px" alt="GIF"
+<img align="right" height="220px" alt="GIF"
 src="https://i.pinimg.com/originals/39/2d/fc/392dfc8a00460c8dc827ff3bde60441c.gif" />
 
 > Architecting systems that survive contact with production
