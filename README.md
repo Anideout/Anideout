@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" height="270px" alt="GIF"
+<img align="right" height="240px" alt="GIF"
 src="https://i.pinimg.com/originals/39/2d/fc/392dfc8a00460c8dc827ff3bde60441c.gif" />
 
 > Architecting systems that survive contact with production
