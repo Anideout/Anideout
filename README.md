@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" width="100%" height="100px" style="object-fit: cover;" />
+<div align="center" style="background-color: #000; overflow: hidden; line-height: 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" 
+       width="100%" 
+       style="max-height: 120px; object-fit: cover; opacity: 0.8;" />
 </div>
-
-<div align="center">
 
 ### Hello there, I'm Anideout!
 *"Infinite loops are the way in which code meditates on its own existence"*
