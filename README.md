@@ -24,7 +24,7 @@ src="https://i.pinimg.com/originals/39/2d/fc/392dfc8a00460c8dc827ff3bde60441c.gi
 fn main() {
     let anideout = Developer {
         name: String::from("Urutau"),
-        stack: vec!["Rust", "Java/Spring", "Kotlin", "TypeScript", "Python", "PHP"],
+        stack: vec!["Rust", "Java/Spring", "Kotlin", "TypeScript", "Python"],
         mission: "Software Architecture & System Design",
         databases: vec!["PostgreSQL", "MySQL", "MongoDB", "Redis", "Oracle"],
         os: "CachyOS (Linux)",
