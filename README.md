@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/18/46/8b/18468b67486464869f8fa0b3300f0012.gif"  
+  <img src="https://i.pinimg.com/originals/6b/1e/a8/6b1ea8c19f0c3dc92bb2207a20619403.gif"  
       width="500%" 
       height="500px"
       style="object-fit: cover; border-radius: 8px; filter: brightness(0.9);" 
@@ -16,7 +16,7 @@
 ---
 
 <img align="right" height="270px" alt="GIF"
-src="https://i.pinimg.com/originals/6b/1e/a8/6b1ea8c19f0c3dc92bb2207a20619403.gif" />
+src="https://i.pinimg.com/originals/39/2d/fc/392dfc8a00460c8dc827ff3bde60441c.gif" />
 
 > Architecting systems that survive contact with production
 
