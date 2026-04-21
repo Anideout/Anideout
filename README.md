@@ -1,8 +1,12 @@
-<div align="center" style="background-color: #000; overflow: hidden; line-height: 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" 
-       width="100%" 
-       style="max-height: 120px; object-fit: cover; opacity: 0.8;" />
+<div align="center">
+  <img src="https://i.pinimg.com/originals/18/46/8b/18468b67486464869f8fa0b3300f0012.gif"  
+      width="500%" 
+      height="500px"
+      style="object-fit: cover; border-radius: 8px; filter: brightness(0.9);" 
+      alt="Terminal Banner" /> 
 </div>
+
+<div align="center">
 
 ### Hello there, I'm Anideout!
 *"Infinite loops are the way in which code meditates on its own existence"*
@@ -11,17 +15,21 @@
 
 ---
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF"
+src="https://i.pinimg.com/originals/6b/1e/a8/6b1ea8c19f0c3dc92bb2207a20619403.gif" />
 
 > Architecting systems that survive contact with production
 
-```java
-class Developer {
-    String[] stack     = {"Java/Spring", "Kotlin", "React", "Python", "JavaScript/TypeScript", "PHP"};
-    String mission     = "Software Architecture & System Design";
-    String[] databases = {"PostgreSQL", "MySQL", "Oracle", "MongoDB"};
-    String os          = "CachyOS";
-    String editor      = "Neovim";
+```Rust
+fn main() {
+    let anideout = Developer {
+        name: String::from("Urutau"),
+        stack: vec!["Rust", "Java/Spring", "Kotlin", "TypeScript", "Python", "PHP"],
+        mission: "Software Architecture & System Design",
+        databases: vec!["PostgreSQL", "MySQL", "MongoDB", "Redis", "Oracle"],
+        os: "CachyOS (Linux)",
+        editor: "Neovim",
+    };
 }
 ```
 
@@ -52,7 +60,10 @@ class Developer {
   <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="React"      width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Python"     width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Python"     width="35px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="MySQL"      width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB"    width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -72,16 +83,15 @@ class Developer {
 ### GitHub Stats
 
 <img align="left"
-  src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"
+  src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a"
   alt="Anideout's GitHub Stats"
   width="60%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=radical"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=dark&title_color=00d2ff&icon_color=00ffab"
   width="37%"
   alt="Anideout's Top Languages"
 />
-
 <br><br><br>
 
 ---
