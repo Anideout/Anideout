@@ -80,19 +80,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ---
 
-### GitHub Stats
+### GitHub Metrics
 
-<img align="left"
-  src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a"
-  alt="Anideout's GitHub Stats"
-  width="60%"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&show_icons=true&hide_border=true&theme=dark&title_color=00d2ff&icon_color=00ffab"
-  width="37%"
-  alt="Anideout's Top Languages"
-/>
-<br><br><br>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&theme=tokyonight&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a&hide_border=true" alt="Anideout's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&layout=compact&theme=tokyonight&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a&hide_border=true" alt="Anideout's Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
