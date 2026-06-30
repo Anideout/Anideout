@@ -80,15 +80,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ---
 
-### GitHub Metrics
+### System Telemetry (GitHub Metrics)
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=anideout&show_icons=true&include_all_commits=true&theme=tokyonight&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a&hide_border=true" alt="Anideout's GitHub Stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anideout&theme=tokyonight&hide_border=true&background=1a1a1a&ring=00d2ff&fire=00ffab" alt="Anideout's Streak Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anideout&layout=compact&theme=tokyonight&title_color=00d2ff&icon_color=00ffab&text_color=efefef&bg_color=1a1a1a&hide_border=true" alt="Anideout's Top Languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anideout&theme=tokyonight" alt="Anideout's Top Languages" width="100%" />
     </td>
   </tr>
 </table>
